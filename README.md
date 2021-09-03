@@ -65,6 +65,22 @@
 1. 網址列輸入`about:config`
 2. 將 `media.play-stand-alone` 改成 `false`
 
+## Router
+
+### Archer C80
+
+ > 為了順利運行L2TP/IPSec VPN server，必須開啟PORT 1701，要安裝這個韌體才可以開啟
+ - [TP-LINK BETA版韌體](ArcherC80V121030860033n.bin)
+
+1. We here provide a beta firmware for the Archer C80 to allow you to open the 1701 for another server, customers can install it on your C80, then try to open the port 1701 for the local L2TP/IPSec VPN server on the router.
+
+Note:
+
+     1. Please be aware that there is no Onemesh implemented in this beta version, so DON'T install this version if you require to build an Onemesh system with some range extenders.
+
+     2. The router configuration will be restored to the factory defaults, you will need to reconfigure the router settings from scratch.
+
+2. After installing this beta firmware on the Archer C80, please `disable the IPSec Passthrough` on the router. You can find it under `Advanced > Security > ALG` page
 ## Python
 
 ### Downloads
