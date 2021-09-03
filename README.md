@@ -4,6 +4,7 @@
 ## Apps
 
  - [Windows Terminal](https://www.microsoft.com/zh-tw/p/windows-terminal/9n0dx20hk701)
+     - [Oh-my-posh](#ohmyposh)
  - [Visual Studio Code](https://code.visualstudio.com/)
  - [PowerToys](https://docs.microsoft.com/zh-tw/windows/powertoys/install)
  - [Potplayer](https://potplayer.daum.net/)
@@ -15,7 +16,7 @@
  - [Motherboard Drivers](https://tw.msi.com/Motherboard/support/H97-GAMING-3)
  - [VPN(Cisco)](#vpn)
 
-## Oh-my-posh
+<h2 id="ohmyposh">Oh-my-posh</h2>
 安裝包
  - 使用系統管理員身分開啟`PowerShell`
 
