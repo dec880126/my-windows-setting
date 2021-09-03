@@ -6,6 +6,7 @@
  - [Windows Terminal](https://www.microsoft.com/zh-tw/p/windows-terminal/9n0dx20hk701)
      - [Oh-my-posh](#ohmyposh)
  - [Visual Studio Code](https://code.visualstudio.com/)
+     - [VS Code 模組們](#vsModules)
  - [PowerToys](https://docs.microsoft.com/zh-tw/windows/powertoys/install)
  - [Potplayer](https://potplayer.daum.net/)
  - [WinRAR](https://rar.tw/)
@@ -42,7 +43,7 @@
  - setofont
  - SNsanafonmaruV2
 
-## VS Code 模組
+<h2 id="vsModules">VS Code 模組</h2>
 
 ### Tools
 
