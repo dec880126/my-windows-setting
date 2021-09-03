@@ -11,6 +11,7 @@
  - [Adobe Acrobat Reader DC](https://get.adobe.com/tw/reader/)
  - [Discord](https://discord.com/download)
  - [Motherboard Drivers](https://tw.msi.com/Motherboard/support/H97-GAMING-3)
+ - [VPN(Cisco)](#vpn)
 
 ## Oh-my-posh
 安裝包
@@ -82,3 +83,14 @@
 
 ### KMS
 - KMS神龍版
+
+<h2 id="vpn">VPN</h2>
+
+1. 次の [URL](https://tus.account.box.com/login?redirect_url=https%3A%2F%2Ftus.app.box.com%2Fs%2F4577m4mvi5pllvr7uqsvdjjsggvcqa0a) にアクセスします。
+2. 選擇 `不屬於 東京理科大学`
+3. 輸入帳號密碼
+4. 下載 `Windows/anyconnect-win-4.10.01075-core-vpn-predeploy-k9.msi`
+5. 安裝
+6. VPN: Ready to connect. に VPN サーバ名である`tusvpn1.tus.ac.jp`を入力し`Connect`をクリックします
+7. 「Username:」と「Password:」の入力域が表示されるので、メールアドレス（学籍番号@ed.tus.ac.jp）とパスワード（CLASSと同一）を入力し「OK」をクリックします。
+ - 30分間、無通信状態が続くと自動的に切断されます。その場合、再度手順「①」から行ってください。
