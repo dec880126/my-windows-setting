@@ -6,6 +6,11 @@
  - [Windows Terminal](https://www.microsoft.com/zh-tw/p/windows-terminal/9n0dx20hk701)
  - [Visual Studio Code](https://code.visualstudio.com/)
  - [PowerToys](https://docs.microsoft.com/zh-tw/windows/powertoys/install)
+ - [Potplayer](https://potplayer.daum.net/)
+ - [WinRAR](https://rar.tw/)
+ - [Adobe Acrobat Reader DC](https://get.adobe.com/tw/reader/)
+ - [Discord](https://discord.com/download)
+ - [Motherboard Drivers](https://tw.msi.com/Motherboard/support/H97-GAMING-3)
 
 ## Oh-my-posh
 安裝包
