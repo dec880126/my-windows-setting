@@ -7,8 +7,9 @@
 
 ## Oh-my-posh
 安裝包
+ - 使用系統管理員身分開啟`PowerShell`
 
-`Install-Module posh-git -Scope CurrentUser`
+`Install-Module posh-git -Scope CurrentUser`<br>
 `Install-Module oh-my-posh -Scope CurrentUser`
 
 檢查PROFILE檔，如果沒有就建立
