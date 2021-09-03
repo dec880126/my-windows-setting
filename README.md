@@ -10,6 +10,7 @@
  - [WinRAR](https://rar.tw/)
  - [Adobe Acrobat Reader DC](https://get.adobe.com/tw/reader/)
  - [Discord](https://discord.com/download)
+ - [Spotify](https://www.spotify.com/tw/download/windows/)
  - [Motherboard Drivers](https://tw.msi.com/Motherboard/support/H97-GAMING-3)
  - [VPN(Cisco)](#vpn)
 
