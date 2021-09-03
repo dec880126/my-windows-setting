@@ -67,3 +67,13 @@
 
 ### Pip Modules
 `pip install pyinstaller pymysql datetime requests pandas rich bs4 alive-progress tdqm black`
+
+## OS & Office
+
+ - OS
+   - 放在隨身碟(Kingston DataTraveler 100 G3)
+ - Office 
+   - CyuanMc(NAS) -> /homes/cyuanhuang/PC/ProPlus2019Retail.img
+
+### KMS
+- KMS神龍版
