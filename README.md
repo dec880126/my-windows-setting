@@ -61,4 +61,4 @@
 
 ## Python
 
-`pip install pyinstaller pymysql datetime requests pandas rich bs4 alive-progress tdqm`
+`pip install pyinstaller pymysql datetime requests pandas rich bs4 alive-progress tdqm black`
