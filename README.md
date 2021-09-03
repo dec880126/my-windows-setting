@@ -116,7 +116,7 @@ Note:
 
 <h2 id="solveSpotify">Spotify 黑畫面處理</h2>
 
-1. 打開**Spotify檔案目錄下的Locales資料夾**
+1. 打開**Spotify檔案目錄下的locales資料夾**
     - `C:\Users\cyuan\AppData\Roaming\Spotify\locales`
 2. 找到`zh-Hant.mo`，並將他改名為`zh-TW.mo`
 3. 重新打開 Spotify
