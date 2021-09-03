@@ -61,4 +61,9 @@
 
 ## Python
 
+### Downloads
+ - [All Releases](https://www.python.org/downloads/)
+ - [get-pip.py](https://bootstrap.pypa.io/get-pip.py)
+
+### Pip Modules
 `pip install pyinstaller pymysql datetime requests pandas rich bs4 alive-progress tdqm black`
