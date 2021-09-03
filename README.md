@@ -3,7 +3,9 @@
 
 ## Apps
 
- - Windows Terminal
+ - [Windows Terminal](https://www.microsoft.com/zh-tw/p/windows-terminal/9n0dx20hk701)
+ - [Visual Studio Code](https://code.visualstudio.com/)
+ - [PowerToys](https://docs.microsoft.com/zh-tw/windows/powertoys/install)
 
 ## Oh-my-posh
 安裝包
@@ -24,9 +26,30 @@
 ### Coding用
  - Fira_Code
 
- ### 配合oh-my-posh的符號
+### 配合oh-my-posh的符號
  - ShareTechMono
 
 ### 中文字體
  - setofont
  - SNsanafonmaruV2
+
+## VS Code 模組
+
+### Tools
+
+ - Power Mode
+ - Better Comments
+ - Bookmarks
+ - Bracket Pair Colorize
+ - Markdown ALL in one
+ - Markdown Preview Github Styling
+ - Todo Tree
+
+### Languages
+
+ - Python
+ - Pylance
+ - Verilog
+ - vscode-drawio
+ - C/C++
+ - C++ Intellisense
