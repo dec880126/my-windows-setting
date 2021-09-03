@@ -1,5 +1,5 @@
 # my-windows-setting
-整理一下自己習慣用的環境設定
+整理一下自己常用的Windows環境設定
 
 ## Apps
 
