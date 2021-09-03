@@ -16,6 +16,7 @@
     - [Spotify黑畫面處理](#solveSpotify)
  - [Motherboard Drivers](https://tw.msi.com/Motherboard/support/H97-GAMING-3)
  - [VPN(Cisco)](#vpn)
+ - [Notion](https://www.notion.so/desktop)
 
 <h2 id="ohmyposh">Oh-my-posh</h2>
 安裝包
@@ -122,3 +123,7 @@ Note:
     - `C:\Users\cyuan\AppData\Roaming\Spotify\locales`
 2. 找到`zh-Hant.mo`，並將他改名為`zh-TW.mo`
 3. 重新打開 Spotify
+
+## SSH on PowerShell
+
+`ssh user@host -p port`
