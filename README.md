@@ -18,3 +18,10 @@
 
 用 `$PROFILE` 檢查 `.ps1` 檔案位置
 修改 [Microsoft.PowerShell_profile.ps1](https://github.com/dec880126/my-windows-setting/blob/main/Microsoft.PowerShell_profile.ps1)
+
+## Fonts
+
+ - Fira_Code -> Coding用
+ - ShareTechMono -> 搭配oh-my-posh的符號
+ - setofont_v_6_20 -> 中文字體
+ - SNsanafonmaruV2 -> 中文字體
