@@ -21,7 +21,12 @@
 
 ## Fonts
 
- - Fira_Code -> Coding用
- - ShareTechMono -> 搭配oh-my-posh的符號
- - setofont_v_6_20 -> 中文字體
- - SNsanafonmaruV2 -> 中文字體
+### Coding用
+ - Fira_Code
+
+ ### 配合oh-my-posh的符號
+ - ShareTechMono
+
+### 中文字體
+ - setofont
+ - SNsanafonmaruV2
