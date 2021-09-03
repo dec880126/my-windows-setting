@@ -1,5 +1,5 @@
 # my-windows-setting
-整理一下自己習慣用的環境包
+整理一下自己習慣用的環境設定
 
 ## Apps
 
@@ -53,3 +53,8 @@
  - vscode-drawio
  - C/C++
  - C++ Intellisense
+
+## Firefox 設定
+
+1. 網址列輸入`about:config`
+2. 將 `media.play-stand-alone` 改成 `false`
