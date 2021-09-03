@@ -83,6 +83,7 @@
 
 ### KMS
 - KMS神龍版
+- Reloader
 
 <h2 id="vpn">VPN</h2>
 
