@@ -58,3 +58,7 @@
 
 1. 網址列輸入`about:config`
 2. 將 `media.play-stand-alone` 改成 `false`
+
+## Python
+
+`pip install pyinstaller pymysql datetime requests pandas rich bs4 alive-progress tdqm`
