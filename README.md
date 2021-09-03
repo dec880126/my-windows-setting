@@ -70,7 +70,7 @@
 ### Archer C80
 
  > 為了順利運行L2TP/IPSec VPN server，必須開啟PORT 1701，要安裝這個韌體才可以開啟
- - [TP-LINK BETA版韌體](ArcherC80V121030860033n.bin)
+ - [TP-LINK BETA版韌體: ArcherC80V121030860033n.bin](https://github.com/dec880126/my-windows-setting/blob/main/Archer_C80/ArcherC80V121030860033n.bin)
 
 1. We here provide a beta firmware for the Archer C80 to allow you to open the 1701 for another server, customers can install it on your C80, then try to open the port 1701 for the local L2TP/IPSec VPN server on the router.
 
