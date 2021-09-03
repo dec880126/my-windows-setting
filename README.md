@@ -11,6 +11,7 @@
  - [Adobe Acrobat Reader DC](https://get.adobe.com/tw/reader/)
  - [Discord](https://discord.com/download)
  - [Spotify](https://www.spotify.com/tw/download/windows/)
+    - [Spotify黑畫面處理](#solveSpotify)
  - [Motherboard Drivers](https://tw.msi.com/Motherboard/support/H97-GAMING-3)
  - [VPN(Cisco)](#vpn)
 
@@ -112,3 +113,10 @@ Note:
 6. VPN: Ready to connect. に VPN サーバ名である`tusvpn1.tus.ac.jp`を入力し`Connect`をクリックします
 7. 「Username:」と「Password:」の入力域が表示されるので、メールアドレス（学籍番号@ed.tus.ac.jp）とパスワード（CLASSと同一）を入力し「OK」をクリックします。
  - 30分間、無通信状態が続くと自動的に切断されます。その場合、再度手順「①」から行ってください。
+
+<h2 id="solveSpotify">Spotify 黑畫面處理</h2>
+
+1. 打開**Spotify檔案目錄下的Locales資料夾**
+    - `C:\Users\cyuan\AppData\Roaming\Spotify\locales`
+2. 找到`zh-Hant.mo`，並將他改名為`zh-TW.mo`
+3. 重新打開 Spotify
