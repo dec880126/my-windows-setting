@@ -7,6 +7,7 @@
      - [Oh-my-posh](#ohmyposh)
  - [Visual Studio Code](https://code.visualstudio.com/)
      - [VS Code 模組們](#vsModules)
+     - [VS Code 設定](#vsSetting)
  - [PowerToys](https://docs.microsoft.com/zh-tw/windows/powertoys/install)
  - [Potplayer](https://potplayer.daum.net/)
  - [WinRAR](https://rar.tw/)
@@ -67,6 +68,13 @@
  - vscode-drawio
  - C/C++
  - C++ Intellisense
+
+<h2 id="vsSetting">VS Code 設定</h2>
+
+ - Cursor Smooth Caret Animation -> `On`
+ - terminal.integrated.fontFamily -> "ShureTechMono NF"
+
+已整合於 [.vscode/setting.json](https://github.com/dec880126/my-windows-setting/blob/main/.vscode/settings.json)
 
 ## Firefox 設定
 
