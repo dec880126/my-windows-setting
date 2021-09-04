@@ -1,7 +1,21 @@
 # my-windows-setting
 整理一下自己常用的Windows環境設定
 
-## Apps
+## Menu
+ - [Apps](#apps)
+ - [Oh-my-posh](#ohmyposh)
+ - [Fonts](#fonts)
+ - [VS Code 模組們](#vsModules)
+ - [VS Code 設定](#vsSetting)
+ - [Firefox 設定](#firefox_setting)
+ - [Router 設定](#router)
+    - [Archer C80](#archer_c80)
+    - [Port Forwarding](#ports)
+ - [Python](#python)
+ - [OS & Office](#os_office)
+ - [SSH on PowerShell](#ssh_powershell)
+
+<h2 id="apps">Apps</h2>
 
  - [Windows Terminal](https://www.microsoft.com/zh-tw/p/windows-terminal/9n0dx20hk701)
      - [Oh-my-posh](#ohmyposh)
@@ -36,7 +50,7 @@
 用 `$PROFILE` 檢查 `.ps1` 檔案位置
 修改 [Microsoft.PowerShell_profile.ps1](https://github.com/dec880126/my-windows-setting/blob/main/Microsoft.PowerShell_profile.ps1)
 
-## Fonts
+<h2 id="fonts">Fonts</h2>
 
 ### Coding用
  - Fira_Code
@@ -76,14 +90,14 @@
 
 已整合於 [.vscode/setting.json](https://github.com/dec880126/my-windows-setting/blob/main/.vscode/settings.json)
 
-## Firefox 設定
+<h2 id="firefox_setting">Firefox 設定</h2>
 
 1. 網址列輸入`about:config`
 2. 將 `media.play-stand-alone` 改成 `false`
 
-## Router
+<h2 id="router">Router 設定</h2>
 
-### Archer C80
+<h3 id="archer_c80"> Archer C80</h3>
 
  > 為了順利運行L2TP/IPSec VPN server，必須開啟PORT 1701，要安裝這個韌體才可以開啟
  - [TP-LINK BETA版韌體: ArcherC80V121030860033n.bin](https://github.com/dec880126/my-windows-setting/blob/main/Archer_C80/ArcherC80V121030860033n.bin)
@@ -97,7 +111,21 @@ Note:
      2. The router configuration will be restored to the factory defaults, you will need to reconfigure the router settings from scratch.
 
 2. After installing this beta firmware on the Archer C80, please `disable the IPSec Passthrough` on the router. You can find it under `Advanced > Security > ALG` page
-## Python
+
+<h3 id="ports">Ports</h3>
+
+ - Synology VPN Server (L2TP/IPsec)
+    - 1701
+    - 500
+    - 4500
+ - Synology Video Station
+    - 9007
+ - Synology Web Station
+    - 80
+    - 443
+
+
+<h2 id="python">Python</h2>
 
 ### Downloads
  - [All Releases](https://www.python.org/downloads/)
@@ -106,7 +134,7 @@ Note:
 ### Pip Modules
 `pip install pyinstaller pymysql datetime requests pandas rich bs4 alive-progress tdqm black`
 
-## OS & Office
+<h2 id="os_office">OS & Office</h2>
 
  - OS
    - 放在隨身碟(Kingston DataTraveler 100 G3)
@@ -135,6 +163,6 @@ Note:
 2. 找到`zh-Hant.mo`，並將他改名為`zh-TW.mo`
 3. 重新打開 Spotify
 
-## SSH on PowerShell
+<h2 id="ssh_powershell">SSH on PowerShell</h2>
 
 `ssh user@host -p port`
