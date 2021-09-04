@@ -132,7 +132,7 @@ Note:
  - [get-pip.py](https://bootstrap.pypa.io/get-pip.py)
 
 ### Pip Modules
-`pip install pyinstaller pymysql datetime requests pandas rich bs4 alive-progress tdqm black`
+`pip install pyinstaller pymysql datetime requests pandas rich bs4 alive-progress tdqm black openpyxl`
 
 <h2 id="os_office">OS & Office</h2>
 
