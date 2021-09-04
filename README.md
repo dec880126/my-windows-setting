@@ -48,7 +48,7 @@
 `if (!(Test-Path -Path $PROFILE )) { New-Item -Type File -Path $PROFILE -Force }`
 
 用 `$PROFILE` 檢查 `.ps1` 檔案位置
-修改 [Microsoft.PowerShell_profile.ps1](https://github.com/dec880126/my-windows-setting/blob/main/Microsoft.PowerShell_profile.ps1)
+修改 [Microsoft.PowerShell_profile.ps1](https://github.com/dec880126/my-windows-setting/blob/main/PowerShell/Microsoft.PowerShell_profile.ps1)
 
 <h2 id="fonts">Fonts</h2>
 
