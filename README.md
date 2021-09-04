@@ -12,6 +12,7 @@
     - [Archer C80](#archer_c80)
     - [Port Forwarding](#ports)
  - [Python](#python)
+     - Pip install
  - [OS & Office](#os_office)
  - [SSH on PowerShell](#ssh_powershell)
 
