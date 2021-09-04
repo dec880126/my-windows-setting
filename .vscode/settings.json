@@ -6,5 +6,7 @@
     "editor.cursorSmoothCaretAnimation": true,
 
     "powermode.enabled": true,
-    "powermode.presets": "magic"
+    "powermode.presets": "magic",
+
+    "terminal.integrated.fontFamily": "\"ShureTechMono NF\""
 }
