@@ -1,0 +1,10 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+
+    "editor.cursorSmoothCaretAnimation": true,
+
+    "powermode.enabled": true,
+    "powermode.presets": "magic"
+}
