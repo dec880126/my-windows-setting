@@ -38,12 +38,15 @@
  - [Garena](https://pc.garena.tw/)
 
 <h2 id="ohmyposh">Oh-my-posh</h2>
-安裝包
+
+### 安裝包
+
  - 使用系統管理員身分開啟`PowerShell`
 
 `Install-Module posh-git -Scope CurrentUser`<br>
 `Install-Module oh-my-posh -Scope CurrentUser`
 
+### PROFILE
 檢查PROFILE檔，如果沒有就建立
 
 `if (!(Test-Path -Path $PROFILE )) { New-Item -Type File -Path $PROFILE -Force }`
@@ -51,13 +54,17 @@
 用 `$PROFILE` 檢查 `.ps1` 檔案位置
 修改 [Microsoft.PowerShell_profile.ps1](https://github.com/dec880126/my-windows-setting/blob/main/PowerShell/Microsoft.PowerShell_profile.ps1)
 
+### 調整使用者權限
+1. 以管理員身分開啟`PowerShell`
+2. 輸入指令`Set-ExecutionPolicy RemoteSigned`
+
 <h2 id="fonts">Fonts</h2>
 
 ### Coding用
  - Fira_Code
 
 ### 配合oh-my-posh的符號
- - ShareTechMono
+ - ShureTechMono NF
 
 ### 中文字體
  - setofont
