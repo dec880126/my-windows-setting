@@ -15,6 +15,7 @@
      - Pip install
  - [OS & Office](#os_office)
  - [SSH on PowerShell](#ssh_powershell)
+ - [Git相關](#git)
 
 <h2 id="apps">Apps</h2>
 
@@ -36,6 +37,8 @@
  - [Steam](https://store.steampowered.com/about/)
      - [Wallpaper Engine：桌布引擎](https://store.steampowered.com/app/431960/Wallpaper_Engine/)
  - [Garena](https://pc.garena.tw/)
+ - [Git 最新版下載](https://git-scm.com/downloads)
+ - [Github Windows](https://desktop.github.com/)
 
 <h2 id="ohmyposh">Oh-my-posh</h2>
 
@@ -174,3 +177,8 @@ Note:
 <h2 id="ssh_powershell">SSH on PowerShell</h2>
 
 `ssh user@host -p port`
+
+<h2 id = 'git'>Git</h2>
+
+ - [Git 最新版下載](https://git-scm.com/downloads)
+ - [Github Windows](https://desktop.github.com/)
