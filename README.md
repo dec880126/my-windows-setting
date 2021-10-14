@@ -97,7 +97,7 @@
 <h2 id="vsSetting">VS Code 設定</h2>
 
  - Cursor Smooth Caret Animation -> `On`
- - terminal.integrated.fontFamily -> "ShureTechMono NF"
+ - terminal.integrated.fontFamily -> "MesloLGS NF"
 
 已整合於 [.vscode/setting.json](https://github.com/dec880126/my-windows-setting/blob/main/.vscode/settings.json)
 
