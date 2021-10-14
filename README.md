@@ -67,8 +67,8 @@
  - Fira_Code
 
 ### 配合oh-my-posh的符號
- - ShureTechMono NF
-
+ - MesloLGS NF
+ 
 ### 中文字體
  - setofont
  - SNsanafonmaruV2
