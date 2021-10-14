@@ -1,12 +1,22 @@
 {
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "editor.renderControlCharacters": true,
+    "editor.renderIndentGuides": false,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "git.ignoreMissingGitWarning": true,
+    "explorer.confirmDelete": false,
+    
     "editor.fontFamily": "Fira Code",
-    "editor.fontSize": 14,
     "editor.fontLigatures": true,
-
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "editor.cursorBlinking": "smooth",
     "editor.cursorSmoothCaretAnimation": true,
-
-    "powermode.enabled": true,
-    "powermode.presets": "magic",
-
-    "terminal.integrated.fontFamily": "\"ShureTechMono NF\""
+    "scm.inputFontFamily": "Fira Code",
+    "security.workspace.trust.untrustedFiles": "open"
 }
